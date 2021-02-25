@@ -1,0 +1,11 @@
+@font-face{
+    font-family: crimson_text;
+    src: url("./Fonts/CrimsonText-Regular.ttf");
+}
+h1{
+    font-family: crimson_text;
+    text-shadow: 2px;
+}
+body{
+    background-color: lightslategrey;
+}
