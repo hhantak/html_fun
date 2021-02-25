@@ -3,6 +3,7 @@
     src: url("./Fonts/CrimsonText-Regular.ttf");
 }
 h1{
+    text-align: center;
     font-family: crimson_text;
     text-shadow: 3px;
 }
